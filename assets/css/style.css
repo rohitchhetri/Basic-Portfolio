@@ -1,0 +1,50 @@
+li{
+    display: inline;
+    text-decoration: none;
+    float: left;
+    padding: 10px;
+}
+#wrapper
+{
+    width: 950px;
+    background-color: #666666;
+    height: auto;
+}
+
+body
+{
+    width: 960px;
+    margin: 0 auto;
+}
+
+h1
+{
+    float: left;
+    display: inline;
+    padding: 10 px;
+    background-color: aquamarine;
+}
+
+#header
+{
+    background-color:#666666;
+}
+
+.footer
+{
+    width: 960px;
+    background-color: #666666;
+}
+#nav
+{
+    background-color: darkgreen;
+}
+
+.anchor
+{
+    position: absolute;
+    margin: 40px 0px 0px 0px;
+    background-color: aqua;
+    color:#060606;
+    display: inline;
+}
