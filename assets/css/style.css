@@ -1,7 +1,7 @@
 *
 {
     position: relative;
-    border: red solid 2px;
+    border: #cccccc solid 2px;
 }
 
 body
@@ -135,3 +135,17 @@ section
 
 }
 
+input
+{
+    height: 20px;
+    padding-left: 10px;
+}
+
+#submit
+{
+    height: 30px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    font-weight: bold;
+    margin-top: 5px;
+}
