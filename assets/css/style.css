@@ -146,6 +146,39 @@ input
     height: 30px;
     background-color: #4aaaa5;
     color: #ffffff;
-    font-weight: bold;
-    margin-top: 5px;
+
+}
+
+.portsection
+{
+    position: relative;
+    top:100px;
+    width: 960px;
+    height: 800px;
+    margin-top: 15px;
+    background-color:#ffffff;
+    color:#060606;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+
+figure
+{
+    overflow: auto;
+    display: inline-block;
+    width: 260px;
+    height: 228px;
+}
+
+figcaption
+{
+    background-color: #4fa9a4;
+    color: #f7f7f7;
+    width: 200px;
+    height: 20px;
+    text-align: center;
+    padding-top: 5px;
+    position: absolute;
+    bottom: 34px;
+    z-index: 999;
 }

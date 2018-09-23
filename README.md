@@ -9,3 +9,7 @@ Things to accomplish
   b. contact.html 
   c. portfolio.html 
   
+<<<<<<< HEAD
+=======
+  
+>>>>>>> 8154841da401580d67464cc9ec611cdac9645a6c
